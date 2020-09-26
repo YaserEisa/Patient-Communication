@@ -1,10 +1,10 @@
 # Patient-Communication
 
 # Team Members:
- Yaser Eisa **Team Manager**  
- Lawrence Yang **Technical Lead** 
- Richa Rakesh Kumar Gandhi  
- Paxton Edgar
+ - Yaser Eisa **Team Manager**  
+ - Lawrence Yang **Technical Lead** 
+ - Richa Rakesh Kumar Gandhi  
+ - Paxton Edgar
 
 
 # Product Vision:
