@@ -2,8 +2,8 @@
 
 # Team Members:
  Yaser Eisa (Team Manager)  
- Lawrence Yang (Technical Lead)
- Richa Rakesh Kumar Gandhi
+ Lawrence Yang (Technical Lead)  
+ Richa Rakesh Kumar Gandhi  
  Paxton Edgar
 
 
@@ -16,4 +16,4 @@
  Doctor's assistants / Staff
 
 # User Persona
- ![Alt text](Patient-Communication/Cindy John.png "User Persona")
+ ![Alt text](https://github.com/YaserEisa/Patient-Communication/blob/master/Cindy%20John.png?raw=true "User Persona")
