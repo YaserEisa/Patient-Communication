@@ -16,4 +16,4 @@
  Doctor's assistants / Staff
 
 # User Persona
- ![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+ ![Alt text](Patient-Communication/Cindy John.png "User Persona")
