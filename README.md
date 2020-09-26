@@ -18,3 +18,4 @@ For small medical practices, who need an easy to use and easy to manage patient 
 # User Persona
  ![Alt text](https://github.com/YaserEisa/Patient-Communication/blob/master/Cindy%20John%202.png?raw=true "User Persona")
  ![Alt text](https://github.com/YaserEisa/Patient-Communication/blob/master/Mohamed%20Khan.png?raw=true "User Persona")
+ ![Alt text](https://github.com/YaserEisa/Patient-Communication/blob/master/Stacy%20Palma.png?raw=true "User Persona")
