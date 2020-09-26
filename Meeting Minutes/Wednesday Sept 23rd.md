@@ -1,7 +1,7 @@
 # Attendence  
-Yaser Eisa 
-Larry 
+Yaser Eisa   
+-Larry 
 
-# Discussed
+# Topics Discussed
 Discussed plan to complete the product vision assignment
 
