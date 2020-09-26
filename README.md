@@ -16,4 +16,4 @@
  Doctor's assistants / Staff
 
 # User Persona
- ![Alt text](https://github.com/YaserEisa/Patient-Communication/blob/master/Cindy%20John.png?raw=true "User Persona")
+ ![Alt text](https://github.com/YaserEisa/Patient-Communication/blob/master/Cindy%20John%202.png?raw=true "User Persona")
