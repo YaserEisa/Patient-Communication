@@ -44,4 +44,5 @@ https://www.pivotaltracker.com/n/projects/2466225
 |175004544|As  patient, I want to receive a conformation email when my contact information has been updated. |Oct 26, 2020   |Nov 1, 2020  |feature|3       |Form design. Has to wait on DB launch  Need API to interface for external call                      |
 |175002241|As a medical practice, I would like to broadcast messages to all patients.                        |Oct 26, 2020   |Nov 1, 2020  |feature|3       |Form design and internal DB call. Has to wait on DB launch  Need API to interface for external call |
 
-
+Process:
+Team met in a planning meeting to go over the entire backlog, prioritize scenarios and stories (including an epic), and did a consensus estimate for story points. Focus was to get basic functionality - have patients login and view the most important information.
