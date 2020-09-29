@@ -20,7 +20,7 @@ For small medical practices, who need an easy to use and easy to manage patient 
  ![Alt text](https://github.com/YaserEisa/Patient-Communication/blob/master/User%20Personas/Mohamed%20Khan.png?raw=true "User Persona")
  ![Alt text](https://github.com/YaserEisa/Patient-Communication/blob/master/User%20Personas/Stacy%20Palma.png?raw=true "User Persona")
 
-# Backlog Pivitol Tracker URL:
+# Backlog Pivital Tracker URL:
 https://www.pivotaltracker.com/n/projects/2466225
 
 
