@@ -3,7 +3,7 @@
 # Team Members:
  - Yaser Eisa **Team Manager**  
  - Lawrence Yang **Technical Lead** 
- - Richa Rakesh Kumar Gandhi  
+ - Richa Mehta **Scrum Master**
  - Paxton Edgar
 
 
