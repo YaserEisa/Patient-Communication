@@ -20,7 +20,7 @@ For small medical practices, who need an easy to use and easy to manage patient 
  ![Alt text](https://github.com/YaserEisa/Patient-Communication/blob/master/User%20Personas/Mohamed%20Khan.png?raw=true "User Persona")
  ![Alt text](https://github.com/YaserEisa/Patient-Communication/blob/master/User%20Personas/Stacy%20Palma.png?raw=true "User Persona")
 
-# Backlog Pivitol URL:
+# Backlog Pivitol Tracker URL:
 https://www.pivotaltracker.com/n/projects/2466225
 
 
@@ -46,3 +46,5 @@ https://www.pivotaltracker.com/n/projects/2466225
 
 # Process:
 Team members came up with product vision and stories. Stories were placed into the Pivotal backlog. We then met in a planning meeting to go over the entire backlog, prioritize scenarios and stories (including an epic), and did a consensus estimate for story points. Focus was to get basic functionality - have patients login, view the most important information, and get some communication.
+
+https://github.com/YaserEisa/Patient-Communication/blob/master/product_vision_rubric.md
