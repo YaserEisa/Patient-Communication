@@ -62,8 +62,7 @@ https://github.com/YaserEisa/Patient-Communication/blob/master/product_vision_ru
     **LOGINS** was segmented away from **USERS** for data integrity purposes. **LOGINS** accesses **USERS** via *ID* which holds a uniquness constraint. 
     Segmenting these reduced NULL managment and made reads significantly more efficient. 
     
-    ![Alt text](https://github.com/YaserEisa/Patient-Communication/blob/master/User%20Personas/DB%20schema.pngraw=true "Schema")
-    
+![DB schema](https://user-images.githubusercontent.com/19698342/97622236-58f67f80-19fa-11eb-9eb1-77ad99ebac11.png)    
     
     
     
