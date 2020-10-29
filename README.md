@@ -48,3 +48,22 @@ https://www.pivotaltracker.com/n/projects/2466225
 Team members came up with product vision and stories. Stories were placed into the Pivotal backlog. We then met in a planning meeting to go over the entire backlog, prioritize scenarios and stories (including an epic), and did a consensus estimate for story points. Focus was to get basic functionality - have patients login, view the most important information, and get some communication.
 
 https://github.com/YaserEisa/Patient-Communication/blob/master/product_vision_rubric.md
+
+# Database Schema: 
+
+  **Users can be associated to multiple practices**
+    Patients have a doctor for everything nowadays. Maybe I'm optimistic, but as we sell to multiple practices within a region, our database will 
+    require some flexibility. This is done via the **MEMBERSHIPS** table. **MEMBERSHIPS** holds foreign keys to both **USERS** and **ACCOUNTS** so that
+    we can associate any number of users to an account (say children who depend on their mother). To clarify, account alerts are tied to
+    **MEMBERSHIPS**, but if an individual raises an issue, those issue relationships are tied to that individuals **USERS** record.
+    **MEMBERSHIPS** also holds specific columns which allow for functions such as company messages, password reset, profile requests, etc. Additionally,
+    **MEMBERSHIPS** possesses a column titled *Roles* - an user might be an administrator for a practice, the policy holder for an account, 
+    or a dependent on an account - in the event that role specfic functions are added permission authentication can easily be performed. 
+    **LOGINS** was segmented away from **USERS** for data integrity purposes. **LOGINS** accesses **USERS** via *ID* which holds a uniquness constraint. 
+    Segmenting these reduced NULL managment and made reads significantly more efficient. 
+    
+    
+    
+    
+    
+    
