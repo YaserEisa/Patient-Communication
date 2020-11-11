@@ -6,6 +6,8 @@
  - Richa Rakesh Kumar Gandhi  
  - Paxton Edgar
 
+Currently, all functioning source code is at https://github.com/YaserEisa/Project-. Will have to do some SCM cleanup <insert pivotal chore here>
+
 
 # Product Vision:
 For small medical practices, who need an easy to use and easy to manage patient communication and engagement, the PatientPortal is a cloud based medical practice management service that provides secure messaging, automates routine requests, and provides access to patient information and records. Unlike other services or software products, our product is easy to administer, simple to use, and available at moderate cost.
