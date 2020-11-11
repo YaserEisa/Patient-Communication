@@ -1,0 +1,7 @@
+Attendance:
+Larry
+Yaser
+
+Minutes:
+* Larry to go to professor office hours, unable to work over weekend
+* Yaser to start API work with other team
