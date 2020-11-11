@@ -6,7 +6,7 @@
  - Richa Rakesh Kumar Gandhi  
  - Paxton Edgar
 
-Currently, all functioning source code is at https://github.com/YaserEisa/Project-. Will have to do some SCM cleanup <insert pivotal chore here>
+Currently, all functioning source code is at https://github.com/YaserEisa/Project-. Will have to do some SCM cleanup [insert pivotal chore here]
 
 
 # Product Vision:
