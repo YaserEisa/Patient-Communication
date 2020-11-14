@@ -3,7 +3,7 @@
 # Team Members:
  - Yaser Eisa **Team Manager**  
  - Lawrence Yang **Technical Lead** 
- - Richa Rakesh Kumar Gandhi  
+ - Richa Mehta **Scrum Master**
  - Paxton Edgar
 
 Currently, all functioning source code is at https://github.com/YaserEisa/Project-. Will have to do some SCM cleanup [insert pivotal chore here]
