@@ -1,7 +1,6 @@
 # Patient-Communication
 
-https://cs673-patient-portal.herokuapp.com/home/index
-https://cs673-patient-portal.herokuapp.com/users/sign_up if the above doesn't work
+https://cs673-patient-portal.herokuapp.com/home/index - go to https://cs673-patient-portal.herokuapp.com/users/sign_up if the above doesn't work
 
 # Team Members:
  - Yaser Eisa **Team Manager**  
